@@ -8,10 +8,11 @@ Display information: Product name, price ,total with description
 High-tech function will make shopping easier, faster and convenient.
 
 Proposed system Components:
-![image](https://user-images.githubusercontent.com/26314764/142704441-e9b0aa9c-66f9-467f-ab75-9a5323445e73.png)
 
 
-![image](https://user-images.githubusercontent.com/26314764/142704358-789519a6-f5e6-4388-93fa-dd470f7aed08.png)
+![image](https://user-images.githubusercontent.com/26314764/142704358-789519a6-f5e6-4388-93fa-dd470f7aed08.png)![image](https://user-images.githubusercontent.com/26314764/142710769-6a59ffbe-b80a-45bd-8ac0-441c26a53213.png)![image](https://user-images.githubusercontent.com/26314764/142710778-55cf5645-5ad6-468e-aaeb-3f789995d06a.png)
+
+
 
 
 
