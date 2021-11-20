@@ -21,6 +21,10 @@ LITHIUM ION CYLINDRICAL- BATTERY - 3.7V 2200MAH
 ![image](https://user-images.githubusercontent.com/26314764/142711172-d504b93b-49e1-4179-92fc-16f861b28e46.png)
 
 
+In Smart Trolley System, now there is no need for the customers to wait in the queue and wait for his/her turn for the scanning of the product items. Especially during weekends or festivals season, there is not time wastage in waiting in the queue. The customer has to do only billing at the billing counter and only those customers can use the smart trolley who are having membership card where specific system is inserted in it. So, supermarkets or hypermarkets use this concept as their business strategy to attract more number of customers.
+
+
+
 
 
 
